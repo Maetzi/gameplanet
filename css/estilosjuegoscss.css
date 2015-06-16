@@ -1,0 +1,132 @@
+@charset "utf-8";
+/* CSS Document */
+#Paginainicio
+{
+	background-image:url(../imageness/img1.jpg)
+}
+#titulo
+{
+	background:#006; 
+	color:#CCC
+}
+#piepagina
+{
+	background:#006;
+	color:#CCC;
+}
+#introduccion
+{
+	color:#FFF;
+	size:12;
+	text-align:justify;
+	border:solid;
+	width:98%;
+	margin:1%;
+}
+#text
+{
+	height:500px;
+	margin:1%;
+	text-align:center;
+}
+#imagen
+{
+	width:100%;
+	text-align:center;
+	height:auto;
+}
+#fondoplataforma
+{
+	background-image:url(../imageness/plataforma.jpg);
+	width:1320px;
+	height:900px;
+}
+#fondolucha
+{
+	background-image:url(../imageness/lucha.jpg);
+	width:1320px;
+	height:900px;
+}
+#fondorol
+{
+	background-image:url(../imageness/rol1.jpg);
+	width:1320px;
+	height:900px;
+}
+#fondoaventura
+{
+	background-image:url(../imageness/aventura.jpg);
+	width:1320px;
+	height:900px;
+}
+#fondodeporte
+{
+	background-image:url(../imageness/deportivo.jpeg);
+	width:1320px;
+	height:900px;
+}
+#fondoshooter
+{
+	background-image:url(../imageness/shooter.jpg);
+	width:1320px;
+	height:900px;
+}
+#infoaventura
+{
+	color:#FF0;
+	size:12;
+	text-align:justify;
+	border:solid;
+	width:98%;
+	margin:1%;
+}
+#infodeporte
+{
+	color:#FFF;
+	size:12;
+	text-align:justify;
+	border:solid;
+	width:98%;
+	margin:1%;
+}
+#infoshooter
+{
+	color:#00C;
+	size:12;
+	text-align:justify;
+	border:solid;
+	width:98%;
+	margin:1%;
+}
+#infoplataforma
+{
+	color:#FFF;
+	size:3;
+	text-align:justify;
+	border:solid;
+	width:98%;
+	margin:1%;
+}
+#infolucha
+{
+	color:#666;
+	size:12;
+	text-align:justify;
+	border:solid;
+	width:98%;
+	margin:1%;
+}
+#inforol
+{
+	color:#000;
+	size:12;
+	text-align:justify;
+	border:solid;
+	width:98%;
+	margin:1%;
+}
+#info
+{
+	color:#FFF;
+	text-align:justify;
+}
